@@ -1,0 +1,33 @@
+{
+  "name": "tutorial-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inform40/tutorial-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inform40/tutorial-vue/issues"
+  },
+  "homepage": "https://github.com/inform40/tutorial-vue#readme",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "ts-loader": "^4.4.2",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-property-decorator": "^7.0.0",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
